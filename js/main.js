@@ -181,7 +181,7 @@
 	        zoom: 11,
 
 	        // The latitude and longitude to center the map (always required)
-	        center: new google.maps.LatLng(40.6700, -73.9400), 
+	        center: new google.maps.LatLng(33.749249, -84.387314), 
 
 	        scrollwheel: false,
 
@@ -220,7 +220,7 @@
 	    var image = 'images/map-marker.png';
 	    // Let's also add a marker while we're at it
 	    var marker = new google.maps.Marker({
-	        position: new google.maps.LatLng(40.6700, -73.9400),
+	        position: new google.maps.LatLng(33.749249, -84.387314),
 	        map: map,
 	        icon: image,
 	        draggable: true,

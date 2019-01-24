@@ -898,6 +898,7 @@ h2.menu-item:after {
     font-weight: 600;
 }
 
+
 /*-------------------------------------------------------------------
 
                         5. NAME BLOCK
@@ -1241,7 +1242,7 @@ h2.menu-item:after {
 .exp .hgroup h5:before {
     color: #ddd;
     content: "/";
-    left: 0;
+    left: 0px;
     left: 30px;
     position: absolute;
 }
