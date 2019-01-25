@@ -621,9 +621,9 @@ h2.portfolio.menu-item:before {
 h2.blog.menu-item:before {
     content: '03';
 }
-
+/* Change back to 04 when I have a blog */
 h2.contact.menu-item:before {
-    content: '04';
+    content: '03';
 }
 
 .menu-block:hover h2.menu-item:before {
@@ -1079,7 +1079,7 @@ h2.menu-item:after {
 }
 
 .sign {
-    margin: 30px 0;
+    margin: 20px 0;
 }
 
 .info-list {
